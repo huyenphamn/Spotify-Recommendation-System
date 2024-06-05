@@ -1,5 +1,9 @@
 # Spotify-Recommendation-System
 AI4ALL Apply AI Group Project
+Members: April Pan, Heather Pham, Luca Dang
+@pan35y@mtholyoke.edu
+@pham28h@mtholyoke.edu
+@nddang@wpi.edu
 ## Our goal 
 Our goal is to build a Spotify recommendation system given a user's playlist
 ## Data citation 
